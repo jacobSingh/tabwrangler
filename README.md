@@ -1,5 +1,5 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/tab-wrangler/localized.svg)](https://crowdin.com/project/tab-wrangler)
-
+<a href="https://app.commanddash.io/agent?github=https://github.com/jacobSingh/tabwrangler"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 <h1 align="center">
  Tab Wrangler
 </h1>
